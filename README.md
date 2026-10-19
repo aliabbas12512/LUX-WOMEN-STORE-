@@ -42,7 +42,7 @@ npm run dev                  # http://localhost:3000
 | Variable | Required | Notes |
 |---|---|---|
 | `NEXT_PUBLIC_SITE_URL` | Yes | e.g. `https://www.yourbrand.sa`. Used for canonical URLs, sitemap and WhatsApp product links |
-| `NEXT_PUBLIC_WHATSAPP_NUMBER` | Strongly recommended | Digits only, e.g. `9665XXXXXXXX`. All WhatsApp buttons stay hidden while this is empty |
+| `NEXT_PUBLIC_WHATSAPP_NUMBER` | Optional | Defaults to the store number `966508202459` (0508202459) set in `src/config/site.ts`; set this only to override it |
 | `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` | For saved orders | Server-only. Run `supabase/schema.sql` first |
 | `ORDER_WEBHOOK_URL`, `ORDER_WEBHOOK_SECRET` | Optional | Also POSTs each order as JSON (Make/Zapier/n8n/Google Sheets). The secret is sent as `X-Order-Secret` |
 | `NEXT_PUBLIC_SNAP_PIXEL_ID` | For Snapchat ads | From Snapchat Events Manager |
@@ -107,7 +107,7 @@ Until a product has photos, the site shows a consistent illustrated placeholder 
 - [ ] Authorised product photos, with `NEXT_PUBLIC_IMAGE_HOSTS` set when they are remote.
 - [ ] Delivery fee, delivery estimate, return window and payment method confirmed in `src/config/store.ts`.
 - [ ] Policies reviewed; legal entity, CR and VAT filled only with registered details.
-- [ ] WhatsApp number set and tested from a phone.
+- [x] WhatsApp number set (0508202459) — test it from a phone after deploying.
 - [ ] Order storage configured (Supabase and/or webhook), with a test order received.
 - [ ] Snapchat Pixel events verified; consent behaviour approved.
 - [ ] Optional: hero campaign photo (`siteConfig.hero.image`) and category images.

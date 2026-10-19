@@ -8,6 +8,9 @@
 
 const env = (value: string | undefined) => (value ?? "").trim();
 
+/** Store WhatsApp Business number (0508202459). NEXT_PUBLIC_WHATSAPP_NUMBER overrides it. */
+const DEFAULT_WHATSAPP = "966508202459";
+
 export const siteConfig = {
   locale: "ar-SA",
   dir: "rtl" as const,
@@ -24,7 +27,7 @@ export const siteConfig = {
 
   contact: {
     /** Digits only, international format without "+", e.g. 9665XXXXXXXX. */
-    whatsapp: env(process.env.NEXT_PUBLIC_WHATSAPP_NUMBER).replace(/\D/g, ""),
+    whatsapp: (env(process.env.NEXT_PUBLIC_WHATSAPP_NUMBER) || DEFAULT_WHATSAPP).replace(/\D/g, ""),
     email: env(process.env.NEXT_PUBLIC_CONTACT_EMAIL),
     phone: env(process.env.NEXT_PUBLIC_CONTACT_PHONE),
     /** Customer-service hours as you want them displayed, e.g. "يومياً من ١٠ صباحاً حتى ١٠ مساءً". */
