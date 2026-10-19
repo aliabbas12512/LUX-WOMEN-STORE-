@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600&family=Cormorant+Garamond:wght@400;500&display=block");
+:root { --ink:#0f0e0c; --ivory:#faf7f2; --beige:#ebe3d7; --gold:#d9c39a; --gold-deep:#b39668; }
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { background:var(--ink); }
+body { font-family:"IBM Plex Sans Arabic", sans-serif; color:var(--ivory); -webkit-font-smoothing:antialiased; }
+.display { font-family:"Amiri", serif; }
+.latin { font-family:"Cormorant Garamond", serif; }
+.wordmark { display:flex; flex-direction:column; align-items:center; line-height:1; }
+.wordmark .ar { font-family:"Amiri", serif; }
+.wordmark .en { font-family:"Cormorant Garamond", serif; color:var(--gold); letter-spacing:.6em; padding-left:.6em; direction:ltr; }
+.hairline { height:2px; background:linear-gradient(to left, transparent, var(--gold), transparent); }
+.pill { display:inline-flex; align-items:center; gap:18px; border-radius:999px; }
+.cover { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
