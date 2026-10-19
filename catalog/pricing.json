@@ -1,0 +1,9 @@
+{
+  "_comment": "Pricing inputs used by `npm run catalog:import` (when a row has no selling price) and `npm run catalog:report`. CONFIRM every value. Exchange rates: SAR per 1 unit of currency. USD is pegged at 3.75 SAR; fill TRY/EUR with the rate you actually pay.",
+  "exchangeRatesToSAR": { "SAR": 1, "USD": 3.75, "TRY": null, "EUR": null },
+  "defaultMarginPercent": 45,
+  "_marginNote": "defaultMarginPercent is the target gross margin as a share of the selling price (45 = 45% of the price is margin).",
+  "inboundShippingPerItemSAR": 0,
+  "paymentAndPackagingPerItemSAR": 0,
+  "roundPricesTo": 9
+}

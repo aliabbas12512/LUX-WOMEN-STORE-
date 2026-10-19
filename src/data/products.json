@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "sample-001",
+    "slug": "abaya-crepe-classic",
+    "name": "عباية الكريب الكلاسيكية",
+    "subtitle": "قصّة مستقيمة بانسيابية هادئة",
+    "description": "عباية من الكريب بقصّة مستقيمة تنساب بخفّة، بأكمام واسعة وخطوط نظيفة تناسب الإطلالة اليومية الراقية. تصميم هادئ يُكمل حجابكِ ويمنحكِ حضوراً واثقاً.",
+    "category": "abayas",
+    "garment": "abaya",
+    "price": 389,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      },
+      {
+        "id": "midnight",
+        "name": "كحلي داكن",
+        "hex": "#1C2233"
+      }
+    ],
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "variants": [
+      {
+        "color": "black",
+        "size": "52",
+        "stock": 4
+      },
+      {
+        "color": "black",
+        "size": "54",
+        "stock": 6
+      },
+      {
+        "color": "black",
+        "size": "56",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "58",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "60",
+        "stock": 1
+      },
+      {
+        "color": "midnight",
+        "size": "52",
+        "stock": 2
+      },
+      {
+        "color": "midnight",
+        "size": "54",
+        "stock": 0
+      },
+      {
+        "color": "midnight",
+        "size": "56",
+        "stock": 3
+      },
+      {
+        "color": "midnight",
+        "size": "58",
+        "stock": 1
+      },
+      {
+        "color": "midnight",
+        "size": "60",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": {
+      "fabric": "كريب ناعم غير شفاف",
+      "care": [
+        "غسيل يدوي أو دورة لطيفة بماء بارد",
+        "كيّ على حرارة منخفضة من الداخل"
+      ],
+      "length": "حسب المقاس المختار (بالإنش)"
+    },
+    "sizeChart": "abaya",
+    "deliveryDays": null,
+    "bestSeller": true,
+    "createdAt": "2026-09-28T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-002",
+    "slug": "abaya-gold-thread",
+    "name": "عباية التطريز الذهبي",
+    "subtitle": "تطريز يدوي رقيق على الأكمام",
+    "description": "عباية سوداء بلمسة تطريز بخيوط ذهبية خافتة على أطراف الأكمام وحافة الفتحة الأمامية، تجمع بين الهدوء والفخامة لمناسباتكِ الخاصة.",
+    "category": "abayas",
+    "garment": "abaya",
+    "price": 649,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      }
+    ],
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "variants": [
+      {
+        "color": "black",
+        "size": "52",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "54",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "56",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "58",
+        "stock": 1
+      },
+      {
+        "color": "black",
+        "size": "60",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": {
+      "fabric": "كريب ثقيل مع تطريز بخيوط معدنية",
+      "care": [
+        "تنظيف جاف للحفاظ على التطريز"
+      ],
+      "notes": [
+        "قد تختلف درجة لمعان الخيط قليلاً بين القطع لأنه منفّذ يدوياً"
+      ]
+    },
+    "sizeChart": "abaya",
+    "deliveryDays": null,
+    "bestSeller": true,
+    "createdAt": "2026-10-08T09:00:00.000Z",
+    "sample": true,
+    "artTrim": true
+  },
+  {
+    "id": "sample-003",
+    "slug": "abaya-linen-sand",
+    "name": "عباية الكتان الرملية",
+    "subtitle": "خفيفة لأيام الصيف",
+    "description": "عباية مفتوحة من مزيج الكتان بلون رملي دافئ، مثالية للأجواء الحارة مع حزام قماشي اختياري يحدد القوام بلطف.",
+    "category": "abayas",
+    "garment": "abaya",
+    "price": 429,
+    "compareAtPrice": 499,
+    "colors": [
+      {
+        "id": "sand",
+        "name": "رملي",
+        "hex": "#CDB79A"
+      },
+      {
+        "id": "ivory",
+        "name": "عاجي",
+        "hex": "#EFE6D8"
+      }
+    ],
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "variants": [
+      {
+        "color": "sand",
+        "size": "52",
+        "stock": null
+      },
+      {
+        "color": "sand",
+        "size": "54",
+        "stock": null
+      },
+      {
+        "color": "sand",
+        "size": "56",
+        "stock": null
+      },
+      {
+        "color": "sand",
+        "size": "58",
+        "stock": null
+      },
+      {
+        "color": "sand",
+        "size": "60",
+        "stock": null
+      },
+      {
+        "color": "ivory",
+        "size": "52",
+        "stock": null
+      },
+      {
+        "color": "ivory",
+        "size": "54",
+        "stock": null
+      },
+      {
+        "color": "ivory",
+        "size": "56",
+        "stock": null
+      },
+      {
+        "color": "ivory",
+        "size": "58",
+        "stock": null
+      },
+      {
+        "color": "ivory",
+        "size": "60",
+        "stock": null
+      }
+    ],
+    "images": [],
+    "details": {
+      "fabric": "مزيج كتان وفسكوز",
+      "care": [
+        "غسيل بماء بارد",
+        "يُفضّل الكيّ والقماش رطب قليلاً"
+      ]
+    },
+    "sizeChart": "abaya",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-08-20T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-004",
+    "slug": "abaya-kimono-mocha",
+    "name": "عباية الكيمونو بلون الموكا",
+    "subtitle": "أكمام كيمونو واسعة",
+    "description": "عباية بقصّة الكيمونو وأكمام منسدلة، بلون موكا عصري يناسب الإطلالات النهارية ويتنسّق بسهولة مع الحجاب الفاتح أو الداكن.",
+    "category": "abayas",
+    "garment": "abaya",
+    "price": 459,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "mocha",
+        "name": "موكا",
+        "hex": "#6E5646"
+      },
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      }
+    ],
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "variants": [
+      {
+        "color": "mocha",
+        "size": "52",
+        "stock": 3
+      },
+      {
+        "color": "mocha",
+        "size": "54",
+        "stock": 2
+      },
+      {
+        "color": "mocha",
+        "size": "56",
+        "stock": 4
+      },
+      {
+        "color": "mocha",
+        "size": "58",
+        "stock": 2
+      },
+      {
+        "color": "mocha",
+        "size": "60",
+        "stock": 1
+      },
+      {
+        "color": "black",
+        "size": "52",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "54",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "56",
+        "stock": 4
+      },
+      {
+        "color": "black",
+        "size": "58",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "60",
+        "stock": 1
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "abaya",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-10-02T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-005",
+    "slug": "abaya-pleated-midnight",
+    "name": "عباية البليسيه الكحلية",
+    "subtitle": "طيّات ناعمة تتحرك معكِ",
+    "description": "عباية بطيّات بليسيه دقيقة على الظهر تمنحها حركة أنيقة عند المشي، بقصّة واسعة مريحة وفتحة أمامية بأزرار مخفية.",
+    "category": "abayas",
+    "garment": "abaya",
+    "price": 529,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "midnight",
+        "name": "كحلي داكن",
+        "hex": "#1C2233"
+      },
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      }
+    ],
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "variants": [
+      {
+        "color": "midnight",
+        "size": "52",
+        "stock": 2
+      },
+      {
+        "color": "midnight",
+        "size": "54",
+        "stock": 2
+      },
+      {
+        "color": "midnight",
+        "size": "56",
+        "stock": 2
+      },
+      {
+        "color": "midnight",
+        "size": "58",
+        "stock": 2
+      },
+      {
+        "color": "midnight",
+        "size": "60",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "52",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "54",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "56",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "58",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "60",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": {
+      "fabric": "شيفون مبطّن",
+      "care": [
+        "غسيل يدوي بماء بارد",
+        "تعليق مباشرة بعد الغسيل للحفاظ على الطيّات"
+      ]
+    },
+    "sizeChart": "abaya",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-09-12T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-006",
+    "slug": "abaya-belted-olive",
+    "name": "عباية الحزام الزيتية",
+    "subtitle": "حزام بنفس القماش",
+    "description": "عباية بلون زيتي عميق مع حزام من نفس القماش يحدّد الخصر، بتفاصيل جيوب جانبية عملية.",
+    "category": "abayas",
+    "garment": "abaya",
+    "price": 469,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "olive",
+        "name": "زيتي",
+        "hex": "#5C5A43"
+      },
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      }
+    ],
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "variants": [
+      {
+        "color": "olive",
+        "size": "52",
+        "stock": 0
+      },
+      {
+        "color": "olive",
+        "size": "54",
+        "stock": 0
+      },
+      {
+        "color": "olive",
+        "size": "56",
+        "stock": 0
+      },
+      {
+        "color": "olive",
+        "size": "58",
+        "stock": 0
+      },
+      {
+        "color": "olive",
+        "size": "60",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "52",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "54",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "56",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "58",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "60",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "abaya",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-07-30T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-007",
+    "slug": "dress-satin-champagne",
+    "name": "فستان الساتان الشامبين",
+    "subtitle": "قصّة مائلة بأكمام طويلة",
+    "description": "فستان سهرة من الساتان بقصّة مائلة تنساب على القوام، بأكمام طويلة وياقة مرتفعة محتشمة. لمعة هادئة تليق بالأعراس والمناسبات المسائية.",
+    "category": "occasion",
+    "garment": "dress",
+    "price": 749,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "champagne",
+        "name": "شامبين",
+        "hex": "#D8C3A0"
+      },
+      {
+        "id": "rose",
+        "name": "وردي هادئ",
+        "hex": "#C9A39A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "champagne",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "champagne",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "champagne",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "champagne",
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "color": "rose",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "rose",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "rose",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "rose",
+        "size": "XL",
+        "stock": 1
+      }
+    ],
+    "images": [],
+    "details": {
+      "fabric": "ساتان مطفي مع بطانة",
+      "care": [
+        "تنظيف جاف فقط"
+      ]
+    },
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": true,
+    "createdAt": "2026-10-10T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-008",
+    "slug": "dress-velvet-wine",
+    "name": "فستان المخمل العنابي",
+    "subtitle": "خصر محدد وتنورة واسعة",
+    "description": "فستان من المخمل الناعم بلون عنابي غني، بخصر محدد وتنورة واسعة تتحرك برقي. تفاصيل تطريز خفيفة عند الأكمام.",
+    "category": "occasion",
+    "garment": "dress",
+    "price": 829,
+    "compareAtPrice": 960,
+    "colors": [
+      {
+        "id": "wine",
+        "name": "عنابي",
+        "hex": "#5A1F2A"
+      },
+      {
+        "id": "midnight",
+        "name": "كحلي داكن",
+        "hex": "#1C2233"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "wine",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "wine",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "wine",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "wine",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "color": "midnight",
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "color": "midnight",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "midnight",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "midnight",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-09-05T09:00:00.000Z",
+    "sample": true,
+    "artTrim": true
+  },
+  {
+    "id": "sample-009",
+    "slug": "dress-chiffon-sage",
+    "name": "فستان الشيفون المريمي",
+    "subtitle": "طبقات خفيفة متدرجة",
+    "description": "فستان طويل من الشيفون بطبقات متدرجة وبطانة كاملة، بلون أخضر مريمي ناعم يناسب العزائم النهارية والمناسبات العائلية.",
+    "category": "dresses",
+    "garment": "dress",
+    "price": 589,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "sage",
+        "name": "أخضر مريمي",
+        "hex": "#9AA38D"
+      },
+      {
+        "id": "rose",
+        "name": "وردي هادئ",
+        "hex": "#C9A39A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "sage",
+        "size": "S",
+        "stock": null
+      },
+      {
+        "color": "sage",
+        "size": "M",
+        "stock": null
+      },
+      {
+        "color": "sage",
+        "size": "L",
+        "stock": null
+      },
+      {
+        "color": "sage",
+        "size": "XL",
+        "stock": null
+      },
+      {
+        "color": "rose",
+        "size": "S",
+        "stock": null
+      },
+      {
+        "color": "rose",
+        "size": "M",
+        "stock": null
+      },
+      {
+        "color": "rose",
+        "size": "L",
+        "stock": null
+      },
+      {
+        "color": "rose",
+        "size": "XL",
+        "stock": null
+      }
+    ],
+    "images": [],
+    "details": {
+      "fabric": "شيفون مع بطانة كاملة",
+      "care": [
+        "غسيل يدوي بماء بارد"
+      ]
+    },
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-09-18T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-010",
+    "slug": "dress-crepe-ivory",
+    "name": "فستان الكريب العاجي",
+    "subtitle": "بساطة راقية لكل الأوقات",
+    "description": "فستان كريب بقصّة نظيفة وأكمام طويلة وحزام رفيع، يمكن ارتداؤه بإطلالة كلاسيكية أو تنسيقه مع عباية مفتوحة.",
+    "category": "dresses",
+    "garment": "dress",
+    "price": 549,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "ivory",
+        "name": "عاجي",
+        "hex": "#EFE6D8"
+      },
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "ivory",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "ivory",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "ivory",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "ivory",
+        "size": "XL",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "color": "black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "XL",
+        "stock": 2
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": true,
+    "createdAt": "2026-08-28T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-011",
+    "slug": "dress-pleated-mocha",
+    "name": "فستان البليسيه بلون الموكا",
+    "subtitle": "تنورة بليسيه منسدلة",
+    "description": "فستان بتنورة بليسيه منسدلة وجزء علوي محتشم بأكمام طويلة، بلون موكا دافئ يناسب الإطلالات المسائية الهادئة.",
+    "category": "dresses",
+    "garment": "dress",
+    "price": 619,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "mocha",
+        "name": "موكا",
+        "hex": "#6E5646"
+      },
+      {
+        "id": "grey",
+        "name": "رمادي فحمي",
+        "hex": "#45444A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "mocha",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "mocha",
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "color": "mocha",
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "color": "mocha",
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "color": "grey",
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "color": "grey",
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "color": "grey",
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "color": "grey",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-10-12T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-012",
+    "slug": "kaftan-everyday-sand",
+    "name": "قفطان اليوم الرملي",
+    "subtitle": "واسع ومريح للبيت والزيارات",
+    "description": "قفطان واسع بخامة ناعمة وأكمام عريضة، يجمع بين الراحة والأناقة للزيارات العائلية والإطلالة اليومية.",
+    "category": "everyday",
+    "garment": "kaftan",
+    "price": 299,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "sand",
+        "name": "رملي",
+        "hex": "#CDB79A"
+      },
+      {
+        "id": "sage",
+        "name": "أخضر مريمي",
+        "hex": "#9AA38D"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "sand",
+        "size": "S",
+        "stock": null
+      },
+      {
+        "color": "sand",
+        "size": "M",
+        "stock": null
+      },
+      {
+        "color": "sand",
+        "size": "L",
+        "stock": null
+      },
+      {
+        "color": "sand",
+        "size": "XL",
+        "stock": null
+      },
+      {
+        "color": "sage",
+        "size": "S",
+        "stock": null
+      },
+      {
+        "color": "sage",
+        "size": "M",
+        "stock": null
+      },
+      {
+        "color": "sage",
+        "size": "L",
+        "stock": null
+      },
+      {
+        "color": "sage",
+        "size": "XL",
+        "stock": null
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-09-22T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-013",
+    "slug": "kaftan-linen-ivory",
+    "name": "قفطان الكتان العاجي",
+    "subtitle": "خفيف وعملي",
+    "description": "قفطان من مزيج الكتان بلون عاجي، بفتحة رقبة بسيطة وجيوب جانبية، مثالي للأيام الحارة.",
+    "category": "everyday",
+    "garment": "kaftan",
+    "price": 329,
+    "compareAtPrice": 379,
+    "colors": [
+      {
+        "id": "ivory",
+        "name": "عاجي",
+        "hex": "#EFE6D8"
+      },
+      {
+        "id": "olive",
+        "name": "زيتي",
+        "hex": "#5C5A43"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "ivory",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "ivory",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "ivory",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "ivory",
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "color": "olive",
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "color": "olive",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "olive",
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "color": "olive",
+        "size": "XL",
+        "stock": 1
+      }
+    ],
+    "images": [],
+    "details": {
+      "fabric": "مزيج كتان وقطن",
+      "care": [
+        "غسيل بالغسالة على دورة لطيفة"
+      ]
+    },
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": true,
+    "createdAt": "2026-08-15T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-014",
+    "slug": "set-everyday-grey",
+    "name": "طقم البلوزة والتنورة الرمادي",
+    "subtitle": "قطعتان تنسقينها بطرق مختلفة",
+    "description": "طقم من قطعتين: بلوزة طويلة بأكمام واسعة وتنورة متوسطة الاتساع، بخامة عملية لا تتجعد بسهولة.",
+    "category": "everyday",
+    "garment": "dress",
+    "price": 359,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "grey",
+        "name": "رمادي فحمي",
+        "hex": "#45444A"
+      },
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "grey",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "grey",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "grey",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "grey",
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "XL",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-10-05T09:00:00.000Z",
+    "sample": true,
+    "artTrim": false
+  },
+  {
+    "id": "sample-015",
+    "slug": "abaya-occasion-embellished",
+    "name": "عباية المناسبات المرصّعة",
+    "subtitle": "تفاصيل لامعة على الأكتاف",
+    "description": "عباية سهرة سوداء بتفاصيل لامعة ناعمة على الأكتاف والأكمام، بقصّة فراشة واسعة تمنحكِ حضوراً مميزاً في المناسبات.",
+    "category": "abayas",
+    "garment": "abaya",
+    "price": 899,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "black",
+        "name": "أسود",
+        "hex": "#141312"
+      }
+    ],
+    "sizes": [
+      "52",
+      "54",
+      "56",
+      "58",
+      "60"
+    ],
+    "variants": [
+      {
+        "color": "black",
+        "size": "52",
+        "stock": 1
+      },
+      {
+        "color": "black",
+        "size": "54",
+        "stock": 1
+      },
+      {
+        "color": "black",
+        "size": "56",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "58",
+        "stock": 1
+      },
+      {
+        "color": "black",
+        "size": "60",
+        "stock": 0
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "abaya",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-10-14T09:00:00.000Z",
+    "sample": true,
+    "artTrim": true
+  },
+  {
+    "id": "sample-016",
+    "slug": "kaftan-occasion-midnight",
+    "name": "قفطان السهرة الكحلي",
+    "subtitle": "تطريز على الصدر",
+    "description": "قفطان سهرة بلون كحلي عميق مع تطريز بخيوط شامبين على الصدر والأكمام، بقصّة واسعة مريحة لجلسات المناسبات الطويلة.",
+    "category": "occasion",
+    "garment": "kaftan",
+    "price": 689,
+    "compareAtPrice": null,
+    "colors": [
+      {
+        "id": "midnight",
+        "name": "كحلي داكن",
+        "hex": "#1C2233"
+      },
+      {
+        "id": "wine",
+        "name": "عنابي",
+        "hex": "#5A1F2A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "variants": [
+      {
+        "color": "midnight",
+        "size": "S",
+        "stock": null
+      },
+      {
+        "color": "midnight",
+        "size": "M",
+        "stock": null
+      },
+      {
+        "color": "midnight",
+        "size": "L",
+        "stock": null
+      },
+      {
+        "color": "midnight",
+        "size": "XL",
+        "stock": null
+      },
+      {
+        "color": "wine",
+        "size": "S",
+        "stock": null
+      },
+      {
+        "color": "wine",
+        "size": "M",
+        "stock": null
+      },
+      {
+        "color": "wine",
+        "size": "L",
+        "stock": null
+      },
+      {
+        "color": "wine",
+        "size": "XL",
+        "stock": null
+      }
+    ],
+    "images": [],
+    "details": null,
+    "sizeChart": "dress",
+    "deliveryDays": null,
+    "bestSeller": false,
+    "createdAt": "2026-09-30T09:00:00.000Z",
+    "sample": true,
+    "artTrim": true
+  }
+]
