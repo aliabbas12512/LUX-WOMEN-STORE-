@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { ArrowLeft } from "lucide-react";
 import { ButtonLink } from "@/components/ui/Button";
 import { ProductArt } from "@/components/product/ProductArt";
@@ -15,6 +16,7 @@ export function EditorialFeature({
   cta,
   products,
   art,
+  image,
   tone = "light",
   reverse = false,
 }: {
@@ -25,6 +27,8 @@ export function EditorialFeature({
   cta: string;
   products: Product[];
   art: { garment: GarmentKind; color: string; trim?: boolean };
+  /** Campaign/product photo; falls back to the illustration when absent. */
+  image?: { src: string; alt: string };
   tone?: "light" | "dark";
   reverse?: boolean;
 }) {
@@ -36,7 +40,11 @@ export function EditorialFeature({
       <div className="mx-auto grid max-w-7xl gap-10 px-5 md:grid-cols-12 md:gap-12 md:px-8">
         <Reveal className={cn("md:col-span-6", reverse && "md:order-2")}>
           <div className="relative aspect-[4/5] overflow-hidden rounded-xl md:aspect-[4/5.2]">
-            <ProductArt garment={art.garment} color={art.color} trim={art.trim} scene={dark ? "night" : "studio"} className="size-full" />
+            {image ? (
+              <Image src={image.src} alt={image.alt} fill sizes="(min-width: 768px) 50vw, 100vw" quality={85} className="object-cover" />
+            ) : (
+              <ProductArt garment={art.garment} color={art.color} trim={art.trim} scene={dark ? "night" : "studio"} className="size-full" />
+            )}
             <div className={cn("absolute inset-5 rounded-lg border", dark ? "border-champagne-soft/25" : "border-ivory/60")} aria-hidden />
           </div>
         </Reveal>

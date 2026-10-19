@@ -57,8 +57,8 @@ export const siteConfig = {
    * When empty, the hero renders the brand's illustrated composition.
    */
   hero: {
-    image: "" as string,
-    imageAlt: "",
+    image: "/products/abaya-black-pearl-trim-hooded-1.jpg" as string,
+    imageAlt: "عباية سوداء بغطاء رأس وحواف لؤلؤية",
   },
 
   /** Short rotating messages in the announcement bar. Keep them truthful. */

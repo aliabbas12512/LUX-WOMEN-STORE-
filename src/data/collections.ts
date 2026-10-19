@@ -18,13 +18,15 @@ export const collections: CollectionInfo[] = [
     eyebrow: "المجموعة الأساسية",
     description: "عبايات بقصّات مدروسة وخامات مختارة، من الكلاسيكية الهادئة إلى تصاميم المناسبات.",
     art: { garment: "abaya", color: "#141312", trim: true },
+    image: "/products/abaya-black-floral-border-1.jpg",
   },
   {
     slug: "dresses",
-    title: "الفساتين",
+    title: "الفساتين والكارديجان",
     eyebrow: "أناقة محتشمة",
-    description: "فساتين طويلة بأكمام وقصّات محتشمة تناسب العزائم والإطلالات اليومية الراقية.",
+    description: "قطع طويلة بأكمام وقصّات محتشمة تناسب العزائم والإطلالات اليومية الراقية.",
     art: { garment: "dress", color: "#9AA38D" },
+    image: "/products/cardigan-black-ivory-lace-1.jpg",
   },
   {
     slug: "everyday",
@@ -32,13 +34,15 @@ export const collections: CollectionInfo[] = [
     eyebrow: "راحة بلمسة راقية",
     description: "قطع عملية ومريحة للبيت والزيارات والمشاوير، دون التنازل عن الأناقة.",
     art: { garment: "kaftan", color: "#CDB79A" },
+    image: "/products/abaya-ivory-floral-print-1.jpg",
   },
   {
     slug: "occasion",
-    title: "فساتين المناسبات",
+    title: "إطلالات المناسبات",
     eyebrow: "للأمسيات الخاصة",
-    description: "تصاميم مسائية بخامات فاخرة وتفاصيل دقيقة للأعراس والحفلات والمناسبات.",
+    description: "عبايات وتصاميم مسائية بتفاصيل الدانتيل والتطريز للأعراس والحفلات والمناسبات.",
     art: { garment: "dress", color: "#5A1F2A", trim: true },
+    image: "/products/abaya-lilac-floral-applique-1.jpg",
   },
   {
     slug: "new",
@@ -46,6 +50,7 @@ export const collections: CollectionInfo[] = [
     eyebrow: "وصل حديثاً",
     description: "آخر ما أُضيف إلى مجموعتنا.",
     art: { garment: "abaya", color: "#6E5646" },
+    image: "/products/abaya-green-ombre-cardigan-1.jpg",
   },
   {
     slug: "offers",
@@ -53,6 +58,7 @@ export const collections: CollectionInfo[] = [
     eyebrow: "أسعار خاصة",
     description: "قطع مختارة بأسعار مخفّضة لفترة محدودة.",
     art: { garment: "dress", color: "#D8C3A0" },
+    image: "/products/abaya-blush-jacquard-1.jpg",
   },
   {
     slug: "all",
@@ -60,6 +66,7 @@ export const collections: CollectionInfo[] = [
     eyebrow: "المتجر",
     description: "تصفّحي المجموعة كاملة.",
     art: { garment: "abaya", color: "#1C2233" },
+    image: "/products/abaya-navy-floral-embroidery-1.jpg",
   },
 ];
 

@@ -1,8 +1,8 @@
 export const mainNav = [
   { href: "/collections/abayas", label: "العبايات" },
-  { href: "/collections/dresses", label: "الفساتين" },
+  { href: "/collections/dresses", label: "الفساتين والكارديجان" },
   { href: "/collections/everyday", label: "الأزياء اليومية" },
-  { href: "/collections/occasion", label: "فساتين المناسبات" },
+  { href: "/collections/occasion", label: "إطلالات المناسبات" },
   { href: "/collections/new", label: "وصل حديثاً" },
   { href: "/collections/offers", label: "العروض" },
 ] as const;

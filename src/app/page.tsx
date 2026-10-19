@@ -8,7 +8,9 @@ import { getBestSellers, getNewArrivals, getOffers, getProductsForCollection } f
 
 export default function HomePage() {
   const abayas = getProductsForCollection("abayas");
-  const occasion = [...getProductsForCollection("occasion"), ...getProductsForCollection("dresses")];
+  const occasion = getProductsForCollection("occasion");
+  const abayaFeature = abayas.find((p) => p.slug === "abaya-navy-floral-embroidery") ?? abayas[0];
+  const occasionFeature = occasion.find((p) => p.slug === "abaya-black-tiered-lace-hem") ?? occasion[0];
   const offers = getOffers();
 
   return (
@@ -28,8 +30,9 @@ export default function HomePage() {
         body="قصّات مدروسة وخامات مختارة بعناية، من العباية الكلاسيكية لأيامكِ المزدحمة إلى التصاميم المطرّزة لأمسياتكِ الخاصة."
         href="/collections/abayas"
         cta="تسوّقي العبايات"
-        products={abayas.filter((p) => p.artTrim || p.bestSeller)}
+        products={abayas.filter((p) => p.id !== abayaFeature?.id)}
         art={{ garment: "abaya", color: "#141312", trim: true }}
+        image={abayaFeature?.images[0]}
       />
       <ProductRail
         eyebrow="الأكثر طلباً"
@@ -38,13 +41,14 @@ export default function HomePage() {
         products={getBestSellers()}
       />
       <EditorialFeature
-        eyebrow="الفساتين والمناسبات"
+        eyebrow="إطلالات المناسبات"
         title="لأمسياتكِ التي لا تُنسى"
-        body="فساتين محتشمة بخامات غنية كالساتان والمخمل والشيفون، بتفاصيل دقيقة تمنحكِ حضوراً راقياً في الأعراس والمناسبات."
+        body="عبايات وتصاميم مسائية بتفاصيل الدانتيل والتطريز واللمسات اللامعة، تمنحكِ حضوراً راقياً في الأعراس والمناسبات."
         href="/collections/occasion"
-        cta="اكتشفي فساتين المناسبات"
-        products={occasion}
+        cta="اكتشفي إطلالات المناسبات"
+        products={occasion.filter((p) => p.id !== occasionFeature?.id)}
         art={{ garment: "dress", color: "#5A1F2A", trim: true }}
+        image={occasionFeature?.images[0]}
         tone="dark"
         reverse
       />
